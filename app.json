@@ -9,9 +9,9 @@
         "manager",
         "bot"
     ],
-    "repository": "https://github.com/idzero23/Tg_Anti_UsersChannel",
-    "website": "https://telegram.dog/idzeroidsupport",
-    "success_url": "https://t.me/idzeroid",
+    "repository": "https://github.com/muhammadrizky16/AntiUserChannel",
+    "website": "https://telegram.dog/NastySupportt",
+    "success_url": "https://t.me/IDnyaKosong",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
